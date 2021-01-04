@@ -8,6 +8,4 @@ switches and buttons
 
 This project expands on my single LED project, and required creating circuits and specifying the necessary voltages for each component
 
-(all Vivado files are located in the project_3 folder)
-
 VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=EIQ_T7iWfok
